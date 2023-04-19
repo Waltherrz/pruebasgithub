@@ -10,6 +10,8 @@ namespace pruebasgithub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("esto es un cambio");
+            Console.ReadKey();
         }
     }
 }
